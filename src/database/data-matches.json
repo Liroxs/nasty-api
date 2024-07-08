@@ -1,0 +1,28 @@
+[
+  {
+    "matchId": "9bda9e665a06c43a7b963c94a9266405",
+    "players": [
+      {
+        "nom": "sp4r1ng",
+        "points": 800,
+        "ip": "12ca17b49af2289436f303e0166030a21e525d266e209267433801a8fd4071a0",
+        "matchs": [
+          {
+            "winner": "",
+            "looser": ""
+          }
+        ],
+        "win": 0,
+        "loose": 0,
+        "token": "eyJwbGF5ZXJJZCI6InNwNHIxbmciLCJtYXRjaElkIjoiOWJkYTllNjY1YTA2YzQzYTdiOTYzYzk0YTkyNjY0MDUifQ.87f408fce137cbf512fd7cea81f2d7c94375dc3a91fd216ca8f4f718feaee37f"
+      },
+      {
+        "nom": "Yazuko",
+        "points": 820,
+        "token": "eyJwbGF5ZXJJZCI6IllhenVrbyIsIm1hdGNoSWQiOiI5YmRhOWU2NjVhMDZjNDNhN2I5NjNjOTRhOTI2NjQwNSJ9.1f01421628be7f767d67013fc4afb4404337f99d3a45ee16b743828c5fbd86a6"
+      }
+    ],
+    "status": "match_in_progress",
+    "expireTimestamp": 1720468693155
+  }
+]

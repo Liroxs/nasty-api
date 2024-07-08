@@ -1,0 +1,28 @@
+[
+  {
+    "nom": "Yazuko",
+    "points": 820,
+    "ip": "12ca17b49af2289436f303e0166030a21e525d266e209267433801a8fd4071a",
+    "matchs": [
+      {
+        "winner": "",
+        "looser": ""
+      }
+    ],
+    "win": 0,
+    "loose": 0
+  },
+  {
+    "nom": "sp4r1ng",
+    "points": 800,
+    "ip": "12ca17b49af2289436f303e0166030a21e525d266e209267433801a8fd4071a0",
+    "matchs": [
+      {
+        "winner": "",
+        "looser": ""
+      }
+    ],
+    "win": 0,
+    "loose": 0
+  }
+]
